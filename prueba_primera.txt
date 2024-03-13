@@ -8,3 +8,6 @@ pomelo
 mandarina
 salmon
 nutella
+ahora agrego cosas para ver como queda git statu con git add y git commit
+papas
+calabaza
