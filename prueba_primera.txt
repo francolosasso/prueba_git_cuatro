@@ -15,8 +15,7 @@ probando haciendo cambios en una nueva rama que sale de un commit anterior
 lechuga
 hinojo
 batata
-pepino
-agrego cosas para probar eclipse con github
-manzana
+aca saqué tambien para ver como quedad
+mandarina
 ciruelas
 duraznos
