@@ -14,3 +14,7 @@ calabaza
 agrego algo mas para ver el cambio del commit
 berenjena
 repollo
+agrego cosas para ver como queda en la otra rama, y luego para poder hacer el merge
+papitas
+palta
+mandioca
