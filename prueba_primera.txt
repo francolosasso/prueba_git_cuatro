@@ -15,8 +15,5 @@ probando haciendo cambios en una nueva rama que sale de un commit anterior
 lechuga
 hinojo
 batata
-pepino
-agrego cosas para probar eclipse con github
-manzana
-ciruelas
+saco aca algunas cosas para ver conflict merge en eclipse
 duraznos
