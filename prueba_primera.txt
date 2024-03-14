@@ -16,3 +16,7 @@ lechuga
 hinojo
 batata
 pepino
+agrego cosas para probar eclipse con github
+manzana
+ciruelas
+duraznos
