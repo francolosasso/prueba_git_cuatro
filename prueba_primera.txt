@@ -11,10 +11,8 @@ nutella
 ahora agrego cosas para ver como queda git statu con git add y git commit
 papas
 calabaza
-agrego algo mas para ver el cambio del commit
-berenjena
-repollo
-agrego cosas para ver como queda en la otra rama, y luego para poder hacer el merge
-papitas
-palta
-mandioca
+probando haciendo cambios en una nueva rama que sale de un commit anterior
+lechuga
+hinojo
+batata
+pepino
